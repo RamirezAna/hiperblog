@@ -5,7 +5,7 @@ body{
     font-size: 16px;
 }
 #cabecera{
-    background: #33A;
+    background: #37488b;
     box-shadow: -6px -5px 0px -1px rgba(0,0,0,0.75);
     -webkit-box-shadow: -6px -5px 0px -1px rgba(0,0,0,0.75);
     -moz-box-shadow: -6px -5px 0px -1px rgba(0,0,0,0.75);
@@ -13,6 +13,12 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+/*tamaño de mi logo*/
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline{
@@ -35,4 +41,5 @@ body{
  
  #post{
     padding: 1em;
+    background: white;
  }
