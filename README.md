@@ -1,4 +1,4 @@
-#Hiperblog: :tw-1f354:
+#Hiperblog:  💜
 Un blog increíble del curso de plarzi con github.
 >El curso ge Git y GitHub de Platzi es lo que hacia falta para triplicar mi conocimiento.
 
